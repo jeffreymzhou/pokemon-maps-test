@@ -129,6 +129,5 @@ export default {
 .info_panel::first-line {
    font-weight: bold;   
 }
-
 </style>
 
